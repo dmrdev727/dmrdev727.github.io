@@ -1,6 +1,6 @@
 # Privacy Policy for DMR Launcher
 
-DMR Launcher (package name: `io.github.dmrdev727.dmrlauncher.app`) is provided by DMRDev727 (Dean Rogers). This Privacy Policy explains how we collect, use, and protect information when you use the app. By using DMR Launcher, you agree to this Policy.
+DMR Launcher (package name: `io.github.dmrdev727.dmrlauncher`) is provided by DMRDev727 (Dean Rogers). This Privacy Policy explains how we collect, use, and protect information when you use the app. By using DMR Launcher, you agree to this Policy.
 
 
 
