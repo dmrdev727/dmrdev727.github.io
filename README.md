@@ -1,6 +1,6 @@
-# Privacy Policy for DMR Launcher Pro
+# Privacy Policy for DMR Launcher
 
-DMR Launcher (package name: `io.github.dmrdev727.dmrlauncher`) is provided by DMRDev727 (Dean Rogers). This Privacy Policy explains how we collect, use, and protect information when you use the app. By using DMR Launcher, you agree to this Policy.
+DMR Launcher Free (package name: `io.github.dmrdev727.dmrlauncher.free`) is provided by DMRDev727 (Dean Martin Rogers). This Privacy Policy explains how we collect, use, and protect information when you use the app. By using DMR Launcher Free, you agree to this Policy.
 
 
 
@@ -14,6 +14,7 @@ DMR Launcher (package name: `io.github.dmrdev727.dmrlauncher`) is provided by DM
 
 ## Permissions and Purpose
 
+- Photos/Media to select or store images and other media.
 - Files/Storage to import, export, or cache content.
 
 
@@ -24,6 +25,7 @@ DMR Launcher (package name: `io.github.dmrdev727.dmrlauncher`) is provided by DM
 - Personalize content and features.
 - Measure usage and better understand product performance.
 - Diagnose crashes and improve stability.
+- Serve ads and measure their performance.
 
 
 
@@ -31,6 +33,7 @@ DMR Launcher (package name: `io.github.dmrdev727.dmrlauncher`) is provided by DM
 
 - Analytics providers (e.g., Google Analytics for Firebase).
 - Crash reporting providers (e.g., Firebase Crashlytics).
+- Advertising partners (e.g., Google AdMob).
 - Service providers that help us operate the app (hosting, support) under confidentiality obligations.
 - Legal authorities if required by law, to protect rights, or investigate misuse.
 
@@ -72,6 +75,7 @@ The app may integrate the following services:
 
 - **Analytics**: Google Analytics for Firebase (Google LLC).
 - **Crash reporting**: Firebase Crashlytics (Google LLC).
+- **Ads**: Google AdMob (Google LLC).
 
 
 
@@ -86,7 +90,7 @@ We may update this Policy to reflect changes to the app or applicable laws. We w
 If you have questions about this Policy or privacy practices, contact us:
 
 - Email: dmrdev727@gmail.com
-- Website: https://github.com/dmrdev727/DMRLauncherPublic
+- Website: https://github.com/dmrdev727/DMRLauncherPublic/blob/main/DMR%20Launcher%20Free
 - Address: Ashley Lodge, Frescade Crescent, Basingstoke, RG21 3NE
 - Country/Region: United Kingdom
 
@@ -94,4 +98,4 @@ If you have questions about this Policy or privacy practices, contact us:
 
 ## Effective Date
 
-2026-07-29
+2026-08-11
