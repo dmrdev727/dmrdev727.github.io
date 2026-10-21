@@ -34,5 +34,5 @@ DMR Launcher contains Google Admob advertisements in the App Drawer and Search S
 DMR Launcher Pro contains no advertisements.
 
 ## Contact
-dmrdev727@gmail.com
 
+[Email me at dmrdev727@gmail.com](mailto:dmrdev727@gmail.com)
