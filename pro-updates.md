@@ -1,10 +1,4 @@
 
-<img src="/dmr_launcher_feature_banner.png" alt="Logo" width="600">
-
-| <a href="https://dmrdev727.github.io/">dmrdev727</a> | <a href="https://play.google.com/store/apps/details?id=io.github.dmrdev727.dmrlauncher">Install DMR Launcher Pro</a> | <a href="https://play.google.com/store/apps/details?id=io.github.dmrdev727.dmrlauncher.free">Install DMR Launcher</a> |
-:---: | :---: | :---:|
-| Updates | <a href="https://dmrdev727.github.io/pro-updates">DMR Launcher Pro Builds</a> | <a href="https://dmrdev727.github.io/updates">DMR Launcher Builds</a> |
-| Privacy Policy | <a href="https://dmrdev727.github.io/dmr-launcher-pro">DMR Launcher Pro Privacy Policy</a> | <a href="https://dmrdev727.github.io/dmr-launcher">DMR Launcher Privacy Policy</a> |
 
 
 ## DMR Launcher Pro Builds
