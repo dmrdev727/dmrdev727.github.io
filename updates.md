@@ -9,7 +9,7 @@
 + Restored app shortcut results in search.
 + Improved keyboard, controller, and accessibility navigation inputs.
 + Fixed app crashes.
-+ 
+
 ## 207
 1 Oct 2026 14:20
 + Fixed input bug caused by widget placement.
