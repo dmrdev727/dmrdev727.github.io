@@ -1,5 +1,5 @@
 
-<img src="/dmr_launcher_feature_banner.png" alt="Logo" width="645">
+<img src="/dmr_launcher_feature_banner.png" alt="Logo" width="620">
 
 | <a href="https://dmrdev727.github.io/">dmrdev727</a> | <a href="https://play.google.com/store/apps/details?id=io.github.dmrdev727.dmrlauncher">Install DMR Launcher Pro</a> | <a href="https://play.google.com/store/apps/details?id=io.github.dmrdev727.dmrlauncher.free">Install DMR Launcher</a> |
 :---: | :---: | :---:|
