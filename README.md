@@ -1,112 +1,31 @@
-<nav>
-  <ul>
-    <li><a href="/">Home</a></li>
-    <li><a href="https://play.google.com/store/apps/details?id=io.github.dmrdev727.dmrlauncher.free">Install DMR Launcher</a></li>
-    <li><a href="https://play.google.com/store/apps/details?id=io.github.dmrdev727.dmrlauncher">Install DMR Launcher Pro</a></li>
-    <li><a href="/dmr-launcher">DMR Launcher Privacy Policy</a></li>
-    <li><a href="/dmr-launcher-pro">DMR Launcher Pro Privacy Policy</a></li>
-    </ul>
-</nav>
-
-
-# Privacy Policy for DMR Launcher
-
-DMR Launcher (package name: `io.github.dmrdev727.dmrlauncher.free`) is provided by DMRDev727 (Dean Martin Rogers). This Privacy Policy explains how we collect, use, and protect information when you use the app. By using DMR Launcher Free, you agree to this Policy.
+|<a href="/">DMRDev727 About</a> |<a href="https://play.google.com/store/apps/details?id=io.github.dmrdev727.dmrlauncher.free">Install DMR Launcher</a>  | <a href="https://play.google.com/store/apps/details?id=io.github.dmrdev727.dmrlauncher">Install DMR Launcher Pro</a>|
+:---: | :---: | :---:|
+|Updates WIP|<a href="/dmr-launcher">DMR Launcher Privacy Policy</a>|<a href="/dmr-launcher-pro">DMR Launcher Pro Privacy Policy</a>|
 
 
 
-## Information We Collect
 
-- Device information (model, OS version, language, country).
-- Usage analytics (events, screens, interactions).
-- Crash and performance data.
+# What is DMR Launcher?
 
+DMR Launcher is built for people who want to efficiently navigate their android experience, packed with useful features and theme options.
 
++ Powerful Search - find apps, system settings, app shortcuts, every app activity, or launch a web search,
++ Clean Design - Display your wallpaper front and centre or save power with a black background.
++ Configurable - Set up the Dock to be perfect for you with Apps, Website Shortcuts or Folders. Quick muscle memory access to your favourite apps. No non-sense 3rd parties deciding where your apps should be.
++ Predictable - The App Drawer is setup as horizontal pages to help you build easy muscle memory to navigate.
++ Customisation - Choose a launcher-wide background and accent colour. Toggle the wallpaper. Adjust icon saturation and size. Select your exact colours with a hex code.
++ Flexible - Adjust the App draw density as you see fit.
++ Website Shortcuts - Add website URLs directly to your App Drawer, bypassing Web App limitations. Avoid installing excess applications to you device.
++ Categorisation - Create your own categories and assign apps and website shortcuts to category pages in the App Drawer.
++ Screen Burn In Protection - Home screen elements move slightly at regular intervals to help avoid clear screen burn in for OLED and AMOLED displays.
++ Repeated Use Visual Queues - By adjusting the colour saturation of the app icons, the DMR Launcher can help break your app addiction.
++ Hide Apps - Clean up the app drawer by hiding unwanted applications.
++ Simple and Fast - Select your preferred animations or disable entirely.
++ Widget Support
++ Notification indicators
 
-## Permissions and Purpose
+### DMR Launcher vs DMR Launcher Pro?
 
-- Photos/Media to select or store images and other media.
-- Files/Storage to import, export, or cache content.
-
-
-
-## How We Use Information
-
-- Provide and improve app functionality.
-- Personalize content and features.
-- Measure usage and better understand product performance.
-- Diagnose crashes and improve stability.
-- Serve ads and measure their performance.
-
-
-
-## Sharing of Information
-
-- Analytics providers (e.g., Google Analytics for Firebase).
-- Crash reporting providers (e.g., Firebase Crashlytics).
-- Advertising partners (e.g., Google AdMob).
-- Service providers that help us operate the app (hosting, support) under confidentiality obligations.
-- Legal authorities if required by law, to protect rights, or investigate misuse.
-
-
-
-## Data Retention
-
-We keep personal data only as long as necessary for the purposes described in this Policy or as required by law. You may request deletion of your account or certain data by contacting us at dmrdev727@gmail.com.
-
-
-
-## Security
-
-We implement reasonable technical and organizational measures to protect information. However, no method of transmission or storage is 100% secure.
-
-
-
-## Children’s Privacy
-
-The app is not directed to children under 13 (or the minimum age in your jurisdiction). If you believe a child provided personal information, contact us to delete it.
-
-
-
-## Your Rights & Choices
-
-Depending on your location (e.g., EU/EEA, UK, California), you may have rights to access, correct, delete, or port your data, and object to certain processing. To exercise rights, contact us at dmrdev727@gmail.com.
-
-
-
-## International Transfers
-
-Your information may be processed and stored in countries other than your own. Where required, we rely on appropriate safeguards for international transfers.
-
-
-
-## Third-Party Services & SDKs
-
-The app may integrate the following services:
-
-- **Analytics**: Google Analytics for Firebase (Google LLC).
-- **Crash reporting**: Firebase Crashlytics (Google LLC).
-- **Ads**: Google AdMob (Google LLC).
-
-
-
-## Changes to This Policy
-
-We may update this Policy to reflect changes to the app or applicable laws. We will post the updated Policy with a new “Effective date”.
-
-
-
-## Contact Us
-
-If you have questions about this Policy or privacy practices, contact us:
-
-- Email: dmrdev727@gmail.com
-- Website: https://github.com/dmrdev727/DMRLauncherPublic/blob/main/DMR%20Launcher%20Free
-- Address: Ashley Lodge, Frescade Crescent, Basingstoke, RG21 3NE
-- Country/Region: United Kingdom
-
-
-
-## Effective Date
-
-2026-08-11
+All features are available in both apps however I update and test the Pro app first.<br/>
+DMR Launcher contains Google Admob advertisements in the App Drawer and Search Screen.<br/>
+DMR Launcher Pro contains no advertisements.
