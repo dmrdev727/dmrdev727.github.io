@@ -7,6 +7,24 @@
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
+    <!-- ADD THIS BLOCK BELOW -->
+    <style>
+        #header_wrap .inner, header.inner {
+            padding: 10px 10px !important;
+            margin: 0 !important;
+        }
+        header.inner img {
+            display: block !important;
+            max-width: 100%;
+            height: auto !important;
+            margin: 0 auto !important;
+            padding: 0 !important;
+        }
+        header.inner td {
+            padding: 4px !important;
+        }
+    </style>
+    
 {% seo %}
     {% include head-custom.html %}
   </head>
