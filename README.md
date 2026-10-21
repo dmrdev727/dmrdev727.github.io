@@ -1,9 +1,8 @@
 <nav>
   <ul>
-    <li><a href="/">Home</a></li>
+    <li><a href="/README.md">Home</a></li>
     <li><a href="/dmr-launcher-pro.md">DMR_Launcher_Pro_Privacy_Policy</a></li>
     <li><a href="/dmr-launcher.md">DMR_Launcher_Privacy_Policy</a></li>
-    <li><a href="/blog.md">Blog</a></li>
   </ul>
 </nav>
 
