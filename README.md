@@ -26,8 +26,8 @@ DMR Launcher is built for people who want to efficiently navigate their android 
 + Repeated Use Visual Queues - By adjusting the colour saturation of the app icons, the DMR Launcher can help break your app addiction.
 + Hide Apps - Clean up the app drawer by hiding unwanted applications.
 + Simple and Fast - Select your preferred animations or disable entirely.
-+ Widget Support
-+ Notification indicators
++ Widget Support.
++ Notification indicators.
 
 ## DMR Launcher vs DMR Launcher Pro?
 All features are available in both apps however I update and test the Pro app first.<br/>
