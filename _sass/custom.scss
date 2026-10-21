@@ -1,43 +1,27 @@
-/* Force the main headers to have zero space */
-header.inner, footer.inner, #header_wrap, #footer_wrap {
-    padding: 0 !important;
+/* 1. Force the header container to ignore the theme's 50px padding */
+#header_wrap .inner, 
+header.inner {
+    padding: 10px 10px !important; /* Reduces that 50px top/bottom to a much smaller amount */
     margin: 0 !important;
-    height: auto !important;
 }
 
-/* Target the specific container for the top banner */
-header.inner div[align="center"] {
-    padding: 0 !important;
-    margin-bottom: 10px !important;
-}
-
-/* Target the table that holds the Google Play button */
-header.inner table {
-    margin: 0 !important;
-    border-collapse: collapse;
-}
-
-/* Force all images to behave and remove "text" spacing */
-header.inner img {
+/* 2. Target the images specifically inside the header */
+/* This overrides the theme's padding: 5px and margin: 10px 0 10px 0; */
+#header_wrap .inner img {
     display: block !important;
-    max-width: 100%;
-    height: auto !important;
-    margin: 0 auto !important;
     padding: 0 !important;
-    line-height: 0 !important;
+    margin: 0 auto !important;
+    max-width: 100%;
+    height: auto;
 }
 
-/* Target the table cells specifically to remove internal padding */
+/* 3. Target the table cells to shrink the gap between links */
 header.inner td {
-    padding: 4px !important; /* Adjust this number down if you want them even closer */
+    padding: 4px !important; /* Reduces the theme's 10px padding */
 }
 
+/* 4. Standard AdSense fix */
 .adsbygoogle {
     margin-bottom: 0 !important;
     margin-top: 0 !important;
-}
-
-/* Add this to the bottom of custom.scss */
-body { 
-    background-color: red !important; 
 }
