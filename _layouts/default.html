@@ -7,23 +7,29 @@
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
-    <!-- ADD THIS BLOCK BELOW -->
     <style>
+        /* Target the container: Fixes centering and keeps padding small */
         #header_wrap .inner, header.inner {
-            padding: 10px 10px !important;
-            margin: 0 !important;
+            padding: 10px !important;
+            margin: 0 auto !important; /* 'auto' ensures it stays centered in the middle of the screen */
+            text-align: center;         /* Ensures text/links inside are also centered */
         }
+
+        /* Target the images: Ensures they stay centered as block elements */
         header.inner img {
             display: block !important;
             max-width: 100%;
             height: auto !important;
-            margin: 0 auto !important;
+            margin: 0 auto !important; /* Centers the image even when it's a 'block' type */
             padding: 0 !important;
         }
+
+        /* Target the table cells: Keeps the gap between your links small */
         header.inner td {
             padding: 4px !important;
         }
     </style>
+
     
 {% seo %}
     {% include head-custom.html %}
