@@ -35,4 +35,4 @@ DMR Launcher Pro contains no advertisements.
 
 ## Contact
 
-[Email me feedback or ideas at dmrdev727@gmail.com](mailto:dmrdev727@gmail.com)
+[Email me your feedback and ideas at dmrdev727@gmail.com](mailto:dmrdev727@gmail.com)
