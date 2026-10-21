@@ -1,24 +1,31 @@
+/* 1. Force the main container to have no padding */
+header.inner, footer.inner {
+    padding: 0 !important;
+    margin: 0 !important;
+}
 
+/* 2. Target the specific div containing your top banner */
+header.inner div[align="center"] {
+    padding: 0 !important;
+    margin-bottom: 10px !important; /* Keeps only the margin you wanted */
+}
+
+/* 3. Target the table cells (where the Google Play badge lives) */
+/* This is likely where the "massive" spacing comes from if it's a theme default */
+header.inner table td {
+    padding: 4px !important; /* Reduces the padding of the cell to a small amount */
+}
+
+/* 4. The Image Fix (ensures no text-based spacing) */
 header.inner img {
-    display: block;
+    display: block !important;
     max-width: 100%;
     height: auto;
-    margin: 0 auto; 
+    margin: 0 auto !important;
+    line-height: 0; /* Removes extra space caused by "text" line height */
 }
 
-
-header.inner {
-    padding: 0 !important;
-    margin: 0;
-}
-
-
-header.inner, footer.inner {
-    padding: 0;
-    margin: 0;
-}
-
-
+/* Adsense spacing fix */
 .adsbygoogle {
     margin-bottom: 0 !important;
     margin-top: 0 !important;
