@@ -1,8 +1,8 @@
 <nav>
   <ul>
     <li><a href="/README.md">Home</a></li>
-    <li><a href="/dmr-launcher-pro.md">DMR_Launcher_Pro_Privacy_Policy</a></li>
-    <li><a href="/dmr-launcher.md">DMR_Launcher_Privacy_Policy</a></li>
+    <li><a href="/dmr-launcher-pro.md">DMR Launcher Pro Privacy Policy</a></li>
+    <li><a href="/dmr-launcher.md">DMR Launcher Privacy Policy</a></li>
   </ul>
 </nav>
 
