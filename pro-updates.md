@@ -1,3 +1,9 @@
+
+| <a href="/">dmrdev727</a> | <a href="https://play.google.com/store/apps/details?id=io.github.dmrdev727.dmrlauncher">Install DMR Launcher Pro</a> | <a href="https://play.google.com/store/apps/details?id=io.github.dmrdev727.dmrlauncher.free">Install DMR Launcher</a> |
+:---: | :---: | :---:|
+| Updates | <a href="/pro-updates">DMR Launcher Pro Builds</a> | <a href="/updates">DMR Launcher Builds</a> |
+| Privacy Policy | <a href="/dmr-launcher-pro">DMR Launcher Pro Privacy Policy</a> | <a href="/dmr-launcher">DMR Launcher Privacy Policy</a> |
+
 ## DMR Launcher Pro Builds
 ### 234
 + Added support for Pinned Shortcuts (for example, Add to Home from internet browsers).
