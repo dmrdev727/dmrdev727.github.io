@@ -1,4 +1,6 @@
 
+<img src="/dmr_launcher_feature.png" alt="Logo" width="645">
+
 | <a href="/">dmrdev727</a> | <a href="https://play.google.com/store/apps/details?id=io.github.dmrdev727.dmrlauncher">Install DMR Launcher Pro</a> | <a href="https://play.google.com/store/apps/details?id=io.github.dmrdev727.dmrlauncher.free">Install DMR Launcher</a> |
 :---: | :---: | :---:|
 | Updates | <a href="/pro-updates">DMR Launcher Pro Builds</a> | <a href="/updates">DMR Launcher Builds</a> |
@@ -33,3 +35,4 @@ DMR Launcher Pro contains no advertisements.
 
 ## Contact
 dmrdev727@gmail.com
+
