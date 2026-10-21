@@ -1,10 +1,27 @@
+<div align="center">
+  <img src="/dmr_launcher_feature_banner.png" alt="Logo" width="600">
+</div>
 
-<img src="/dmr_launcher_feature_banner.png" alt="Logo" width="600">
 
-| <a href="https://dmrdev727.github.io/">dmrdev727</a> | <a href="https://play.google.com/store/apps/details?id=io.github.dmrdev727.dmrlauncher">Install DMR Launcher Pro</a> | <a href="https://play.google.com/store/apps/details?id=io.github.dmrdev727.dmrlauncher.free">Install DMR Launcher</a> |
-:---: | :---: | :---:|
-| Updates | <a href="https://dmrdev727.github.io/pro-updates">DMR Launcher Pro Builds</a> | <a href="https://dmrdev727.github.io/updates">DMR Launcher Builds</a> |
-| Privacy Policy | <a href="https://dmrdev727.github.io/dmr-launcher-pro">DMR Launcher Pro Privacy Policy</a> | <a href="https://dmrdev727.github.io/dmr-launcher">DMR Launcher Privacy Policy</a> |
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://dmrdev727.github.io/">dmrdev727</a></td>
+    <td align="center"><a href="https://play.google.com/store/apps/details?id=io.github.dmrdev727.dmrlauncher">Install DMR Launcher Pro</a></td>
+    <td align="center"><a href="https://play.google.com/store/apps/details?id=io.github.dmrdev727.dmrlauncher.free">Install DMR Launcher</a></td>
+  </tr>
+  <tr>
+    <td align="center">Updates</td>
+    <td align="center"><a href="https://dmrdev727.github.io/pro-updates">DMR Launcher Pro Builds</a></td>
+    <td align="center"><a href="https://dmrdev727.github.io/updates">DMR Launcher Builds</a></td>
+  </tr>
+  <tr>
+    <td align="center">Privacy Policy</td>
+    <td align="center"><a href="https://dmrdev727.github.io/dmr-launcher-pro">DMR Launcher Pro Privacy Policy</a></td>
+    <td align="center"><a href="https://dmrdev727.github.io/dmr-launcher">DMR Launcher Privacy Policy</a></td>
+  </tr>
+</table>
+
+
 
 ## About me
 Solo developer who wants more functionality available in their android launcher!
