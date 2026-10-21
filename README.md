@@ -1,12 +1,10 @@
+## DMR Launcher
+Currently in open testing on Google Play. DMR Launcher is a solo effort from someone who wants more functionality available in their android launcher!
 
-
-## About me
-Solo developer who wants more functionality available in their android launcher!
-
-## What is DMR Launcher?
+## Why?
 DMR Launcher is built for people who want to efficiently navigate their android experience, packed with useful features and theme options.
 
-+ Powerful Search - find apps, system settings, app shortcuts, every app activity, or launch a web search,
++ Powerful Search - find apps, system settings, app shortcuts, every app activity, or launch a web search.
 + Clean Design - Display your wallpaper front and centre or save power with a black background.
 + Configurable - Set up the Dock to be perfect for you with Apps, Website Shortcuts or Folders. Quick muscle memory access to your favourite apps. No non-sense 3rd parties deciding where your apps should be.
 + Predictable - The App Drawer is setup as horizontal pages to help you build easy muscle memory to navigate.
@@ -26,6 +24,10 @@ DMR Launcher is built for people who want to efficiently navigate their android 
 All features are available in both apps however I update and test the Pro app first.<br/>
 DMR Launcher contains Google Admob advertisements in the App Drawer and Search Screen.<br/>
 DMR Launcher Pro contains no advertisements.
+
+## To-Do List
+1. Icon labels display on only one row for some devices (Samsungs)
+2. Widget overhaul (multiple widgets, multiple pages of widgets)
 
 ## Contact
 
