@@ -1,9 +1,11 @@
 <nav>
   <ul>
     <li><a href="/">Home</a></li>
-    <li><a href="/dmr-launcher-pro">DMR Launcher Pro Privacy Policy</a></li>
+    <li><a href="https://play.google.com/store/apps/details?id=io.github.dmrdev727.dmrlauncher.free">Install DMR Launcher</a></li>
+    <li><a href="https://play.google.com/store/apps/details?id=io.github.dmrdev727.dmrlauncher">Install DMR Launcher Pro</a></li>
     <li><a href="/dmr-launcher">DMR Launcher Privacy Policy</a></li>
-  </ul>
+    <li><a href="/dmr-launcher-pro">DMR Launcher Pro Privacy Policy</a></li>
+    </ul>
 </nav>
 
 # Privacy Policy for DMR Launcher
