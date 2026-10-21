@@ -1,1 +1,6 @@
-theme: jekyll-theme-minima
+title: DMR Launcher
+logo: /assets/img/logo.png
+description: Fast and clean android launcher with categories, search, and web shortcuts.
+show_downloads: false
+theme: jekyll-theme-minimal
+      
