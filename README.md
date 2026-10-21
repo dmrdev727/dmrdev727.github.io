@@ -1,12 +1,11 @@
-|<a href="/">DMRDev727 About</a> |<a href="https://play.google.com/store/apps/details?id=io.github.dmrdev727.dmrlauncher.free">Install DMR Launcher</a>  | <a href="https://play.google.com/store/apps/details?id=io.github.dmrdev727.dmrlauncher">Install DMR Launcher Pro</a>|
+|<a href="/">dmrdev727 About</a> |<a href="https://play.google.com/store/apps/details?id=io.github.dmrdev727.dmrlauncher.free">Install DMR Launcher</a>  | <a href="https://play.google.com/store/apps/details?id=io.github.dmrdev727.dmrlauncher">Install DMR Launcher Pro</a>|
 :---: | :---: | :---:|
 |Updates WIP|<a href="/dmr-launcher">DMR Launcher Privacy Policy</a>|<a href="/dmr-launcher-pro">DMR Launcher Pro Privacy Policy</a>|
 
+## About me
+Solo developer who wants more functionality available in their android launcher!
 
-
-
-# What is DMR Launcher?
-
+## What is DMR Launcher?
 DMR Launcher is built for people who want to efficiently navigate their android experience, packed with useful features and theme options.
 
 + Powerful Search - find apps, system settings, app shortcuts, every app activity, or launch a web search,
@@ -16,6 +15,7 @@ DMR Launcher is built for people who want to efficiently navigate their android 
 + Customisation - Choose a launcher-wide background and accent colour. Toggle the wallpaper. Adjust icon saturation and size. Select your exact colours with a hex code.
 + Flexible - Adjust the App draw density as you see fit.
 + Website Shortcuts - Add website URLs directly to your App Drawer, bypassing Web App limitations. Avoid installing excess applications to you device.
++ Pinned Shortcuts - Supports Add to Homescreen from other applicaitons.
 + Categorisation - Create your own categories and assign apps and website shortcuts to category pages in the App Drawer.
 + Screen Burn In Protection - Home screen elements move slightly at regular intervals to help avoid clear screen burn in for OLED and AMOLED displays.
 + Repeated Use Visual Queues - By adjusting the colour saturation of the app icons, the DMR Launcher can help break your app addiction.
@@ -24,8 +24,10 @@ DMR Launcher is built for people who want to efficiently navigate their android 
 + Widget Support
 + Notification indicators
 
-### DMR Launcher vs DMR Launcher Pro?
-
+## DMR Launcher vs DMR Launcher Pro?
 All features are available in both apps however I update and test the Pro app first.<br/>
 DMR Launcher contains Google Admob advertisements in the App Drawer and Search Screen.<br/>
 DMR Launcher Pro contains no advertisements.
+
+## Contact
+dmrdev727@gmail.com
