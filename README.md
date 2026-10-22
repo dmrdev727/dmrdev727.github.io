@@ -27,7 +27,9 @@ DMR Launcher Pro contains no advertisements.
 
 ## To-Do List
 1. Icon labels display on only one row for some devices (Samsungs)
-2. Widget overhaul (multiple widgets, multiple pages of widgets)
+2. Add setting to set home screen notification bar to light/dark mode
+3. On new app installations, ask for confirmation before pre-populating the dock with default apps
+4. Widget overhaul (multiple widgets, multiple pages of widgets)
 
 ## Contact
 
