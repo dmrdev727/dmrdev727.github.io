@@ -30,7 +30,8 @@ DMR Launcher Pro contains no advertisements.
 2. Add setting to set home screen notification bar to light/dark mode
 3. On new app installations, ask for confirmation before pre-populating the dock with default apps
 4. Optional accessibility buttons on the Home Screen to open the App Drawer & Search screen
-5. Widget overhaul (multiple widgets, multiple pages of widgets)
+5. Investigate further Screen Reader & Accessibility options 
+6. Widget overhaul (multiple widgets, multiple pages of widgets)
 
 ## Contact
 
