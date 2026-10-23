@@ -29,10 +29,11 @@ DMR Launcher Pro contains no advertisements.
 
 ## To-Do List
 1. The Notification Bar Style setting should not apply to the App Drawer.
-2. Update the controller / keyboard navigation on the Home Screen to work nicely when the Navigation Buttons are enabled.
-3. Investigate further Screen Reader & Accessibility options.
-4. Widget overhaul (multiple widgets, multiple pages of widgets)
-5. Publish the Pro app to F-Droid (someday hopefully)
+2. Shortcut to add a permanent Web Shortcut from a Search History record of a manually typed URL.
+3. Update the controller / keyboard navigation on the Home Screen to work nicely when the Navigation Buttons are enabled.
+4. Investigate further Screen Reader & Accessibility options.
+5. Widget overhaul (multiple widgets, multiple pages of widgets)
+6. Publish the Pro app to F-Droid (someday hopefully)
 <!-- Blank line here -->
 
 ## Design Decisions
