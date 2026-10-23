@@ -1,9 +1,9 @@
 ## DMR Launcher
 Currently in open testing on Google Play. DMR Launcher is a solo effort from someone who wants more functionality available in their android launcher!
+<!-- Blank line here -->
 
 ## Why?
 DMR Launcher is built for people who want to efficiently navigate their android experience, packed with useful features and theme options.
-
 + Powerful Search - find apps, system settings, app shortcuts, every app activity, or launch a web search.
 + Clean Design - Display your wallpaper front and centre or save power with a black background.
 + Configurable - Set up the Dock to be perfect for you with Apps, Website Shortcuts or Folders. Quick muscle memory access to your favourite apps. No non-sense 3rd parties deciding where your apps should be.
@@ -19,11 +19,13 @@ DMR Launcher is built for people who want to efficiently navigate their android 
 + Simple and Fast - Select your preferred animations or disable entirely.
 + Widget Support.
 + Notification indicators.
+<!-- Blank line here -->
 
 ## DMR Launcher vs DMR Launcher Pro?
 All features are available in both apps however I update and test the Pro app first.<br/>
 DMR Launcher contains Google Admob advertisements in the App Drawer and Search Screen.<br/>
 DMR Launcher Pro contains no advertisements.
+<!-- Blank line here -->
 
 ## To-Do List
 1. The Notification Bar Style setting should not apply to the App Drawer.
@@ -31,6 +33,8 @@ DMR Launcher Pro contains no advertisements.
 3. Investigate further Screen Reader & Accessibility options.
 4. Widget overhaul (multiple widgets, multiple pages of widgets)
 5. Publish the Pro app to F-Droid (someday hopefully)
+<!-- Blank line here -->
+
 ## Design Decisions
 1. Fundamentally, this launcher reflects how I like to setup my phone with configuration options available to setup the launcher in several other ways. My preferences are:
 + One row of icons and folders at the bottom of the home screen for easy access one handed.
@@ -40,6 +44,7 @@ DMR Launcher Pro contains no advertisements.
 + A local search with access to app shortcuts and app activities. With the option to launch a web search in my default browser using my default search engine!
 3. To ensure the app uses the least memory and processing possible, App icons are loaded in lazily. Meaning they are only loaded into memory when they are shown on screen which can result in a slight hitch on the first load of a App Drawer page etc. The benefit is that the app does not waste processing time or memory on icons you have not seen. The app then removes the icons from memory if the android system asks for memory space to be cleared.
 4. I have tried to ensure the whole app is navigable by controller, keyboard inputs, or screen reader inputs. Let me know if there is anything I can improve.
+<!-- Blank line here -->
 
 ## Contact
 
