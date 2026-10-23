@@ -26,12 +26,19 @@ DMR Launcher contains Google Admob advertisements in the App Drawer and Search S
 DMR Launcher Pro contains no advertisements.
 
 ## To-Do List
-1. Icon labels display on only one row for some devices (Samsungs)
-2. Add setting to set home screen notification bar to light/dark mode
-3. On new app installations, ask for confirmation before pre-populating the dock with default apps
-4. Optional accessibility buttons on the Home Screen to open the App Drawer & Search screen
-5. Investigate further Screen Reader & Accessibility options 
-6. Widget overhaul (multiple widgets, multiple pages of widgets)
+1. The Notification Bar Style setting should not apply to the App Drawer.
+2. Investigate further Screen Reader & Accessibility options 
+3. Widget overhaul (multiple widgets, multiple pages of widgets)
+
+## Design Decisions
+1. Fundamentally, this launcher reflects how I like to setup my phone with configuration options available to setup the launcher in several other ways. My preferences are:
++ One row of icons and folders at the bottom of the home screen for easy access one handed.
++ App drawer displayed in fixed grid pages so I can built muscle memory to open apps quickly.
+2. I have built in functionality that allows me to use my phone quicker:
++ I want the ability to add a specific URL as a Web Shortcut, not just a generic link to the website, a specific url.
++ A local search with access to app shortcuts and app activities. With the option to launch a web search in my default browser using my default search engine!
+3. To ensure the app uses the least memory and processing possible, App icons are loaded in lazily. Meaning they are only loaded into memory when they are shown on screen which can result in a slight hitch on the first load of a App Drawer page etc. The benefit is that the app does not waste processing time or memory on icons you have not seen. The app then removes the icons from memory if the android system asks for memory space to be cleared.
+4. I have tried to ensure the whole app is navigable by controller, keyboard inputs, or screen reader inputs. Let me know if there is anything I can improve.
 
 ## Contact
 
