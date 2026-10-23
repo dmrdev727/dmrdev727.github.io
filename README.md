@@ -27,8 +27,9 @@ DMR Launcher Pro contains no advertisements.
 
 ## To-Do List
 1. The Notification Bar Style setting should not apply to the App Drawer.
-2. Investigate further Screen Reader & Accessibility options 
-3. Widget overhaul (multiple widgets, multiple pages of widgets)
+2. Update the controller / keyboard navigation on the Home Screen to work nicely when the Navigation Buttons are enabled.
+3. Investigate further Screen Reader & Accessibility options.
+4. Widget overhaul (multiple widgets, multiple pages of widgets)
 
 ## Design Decisions
 1. Fundamentally, this launcher reflects how I like to setup my phone with configuration options available to setup the launcher in several other ways. My preferences are:
