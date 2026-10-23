@@ -2,7 +2,21 @@
 
 
 ## DMR Launcher Pro Builds
+### 240
++ Accessibility option to display App Drawer and Search shortcut buttons at the bottom of the screen.
++ Resolved a visual bug preventing the app drawer appearing.
++ Added ability to edit pinned shortcuts.
++ Adjusted app defaults.
++ Icon label padding fix to allow text wrapping.
++ Confirmation dialogue of auto Dock population on first app launch.
++ Tutorial updated to ensure consistent page size and display fit.
++ Search result long-press context menu no longer causes the navigation bar to be transparent.
++ Search result long-press context menu text and icon sizing increased (matched to other context menus).
++ Settings menu titles updated.
+
+
 ### 234
+21 Oct 14:31
 + Added support for Pinned Shortcuts (for example, Add to Home from internet browsers).
 + Added a section filter to the DMR Launcher Search Screen.
 + Improved performance and memory management. App icons held in memory until Android OS signals memory pressure (TRIM_MEMORY_BACKGROUND, TRIM_MEMORY_RUNNING_LOW, TRIM_MEMORY_RUNNING_CRITICAL, or TRIM_MEMORY_COMPLETE).
