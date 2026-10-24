@@ -4,3 +4,5 @@ description: Fast and clean android launcher with categories, search, and web sh
 show_downloads: false
 theme: jekyll-theme-slate
 
+plugins:
+  - jekyll-sitemap
