@@ -3,6 +3,6 @@ logo: /dmr_launcher_foreground2.png
 description: Fast and clean android launcher with categories, search, and web shortcuts.
 show_downloads: false
 theme: jekyll-theme-slate
-
+url: "https://dmrdev727.github.io/"
 plugins:
   - jekyll-sitemap
