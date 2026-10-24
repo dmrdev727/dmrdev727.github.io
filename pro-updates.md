@@ -2,9 +2,11 @@
 
 
 ## DMR Launcher Pro Builds
+
 ### 241
 + App Drawer style fixes
 + Navigation Buttons padding and layout fixes
+
 ### 240
 + Accessibility option to display App Drawer and Search shortcut buttons at the bottom of the screen.
 + Resolved a visual bug preventing the app drawer appearing.
