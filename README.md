@@ -44,7 +44,7 @@ DMR Launcher Pro contains no advertisements.
 + I want the ability to add a specific URL as a Web Shortcut, not just a generic link to the website, a specific url.
 + A local search with access to app shortcuts and app activities. With the option to launch a web search in my default browser using my default search engine!
 3. To ensure the app uses the least memory and processing possible, App icons are loaded in lazily. Meaning they are only loaded into memory when they are shown on screen which can result in a slight hitch on the first load of a App Drawer page etc. The benefit is that the app does not waste processing time or memory on icons you have not seen. The app then removes the icons from memory if the android system asks for memory space to be cleared.
-4. I have tried to ensure the whole app is navigable by controller, keyboard inputs, or screen reader inputs. Let me know if there is anything I can improve.
+4. To ensure the app is accessible, I have tried to ensure the whole app is navigable by controller, keyboard inputs, or screen reader inputs. Let me know if there is anything I can improve.
 <!-- Blank line here -->
 
 ## Contact
