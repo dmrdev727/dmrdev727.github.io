@@ -66,18 +66,4 @@ DMR Launcher Pro contains no advertisements.
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-<div class="social-links">
 
-    <a href="https://www.facebook.com/dmrdev727" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
-        <img src="/assets/images/Facebook_Logo_Secondary.png" alt="Facebook" width="32" height="32">
-    </a>
-    <a href="https://www.instagram.com/dmrdev727" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
-        <img src="/assets/images/Instagram_Glyph_White.png" alt="Instagram" width="32" height="32">
-    </a>
-    <a href="https://www.tiktok.com/@dmrdev727" target="_blank" rel="noopener noreferrer" aria-label="TikTok">
-        <img src="/assets/images/TikTok-logo-RGB-Stacked-white-simplified.png" alt="TikTok" width="32" height="32">
-    </a>
-    <a href="https://www.youtube.com/@dmrdev727" target="_blank" rel="noopener noreferrer" aria-label="YouTube">
-        <img src="/assets/images/yt_icon_white_digital.png" alt="YouTube" width="32" height="32">
-    </a>
-</div>
