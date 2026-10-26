@@ -63,22 +63,3 @@ DMR Launcher Pro contains no advertisements.
 <!-- Blank line here -->
 
 ## Contact
-
-[Email me your feedback and ideas at dmrdev727@gmail.com](mailto:dmrdev727@gmail.com)
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5107869374189897"
-     crossorigin="anonymous"></script>
-<!-- Lower Banner -->
-<div style="display:block; width:100%; min-height:0px; overflow:hidden;">
-  <ins class="adsbygoogle"
-       style="display:block;"
-       data-ad-client="ca-pub-5107869374189897"
-       data-ad-slot="5015419223"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
-</div>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
