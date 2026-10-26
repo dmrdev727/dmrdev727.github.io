@@ -5,7 +5,7 @@ Currently in open testing on Google Play. DMR Launcher is a solo effort from som
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5107869374189897"
      crossorigin="anonymous"></script>
 <!-- Website Banner -->
-<div style="display:block; width:100%; height:300px; overflow:hidden;">
+<div style="display:block; width:100%; height:200px; overflow:hidden;">
   <ins class="adsbygoogle"
        style="display:block;"
        data-ad-client="ca-pub-5107869374189897"
