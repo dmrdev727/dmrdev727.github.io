@@ -2,9 +2,12 @@
 Currently in open testing on Google Play. DMR Launcher is a solo effort from someone who wants more functionality available in their android launcher!
 <!-- Blank line here -->
 
+<!-- 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5107869374189897"
      crossorigin="anonymous"></script>
+-->
 <!-- Website Banner -->
+<!-- 
 <div style="display:block; width:100%; min-height:0px; overflow:hidden;">
   <ins class="adsbygoogle"
        style="display:block;"
@@ -16,7 +19,7 @@ Currently in open testing on Google Play. DMR Launcher is a solo effort from som
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
+-->
 ## Why?
 DMR Launcher is built for people who want to efficiently navigate their android experience, packed with useful features and theme options.
 + Powerful Search - find apps, system settings, app shortcuts, every app activity, or launch a web search.
@@ -63,3 +66,4 @@ DMR Launcher Pro contains no advertisements.
 <!-- Blank line here -->
 
 ## Contact
+[Email me your feedback and ideas at dmrdev727@gmail.com](mailto:dmrdev727@gmail.com)
