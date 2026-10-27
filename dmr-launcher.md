@@ -1,10 +1,10 @@
-## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="20" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Privacy Policy for DMR Launcher
+## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="22" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Privacy Policy for DMR Launcher
 
 DMR Launcher (package name: `io.github.dmrdev727.dmrlauncher.free`) is provided by DMRDev727 (Dean Martin Rogers). This Privacy Policy explains how we collect, use, and protect information when you use the app. By using DMR Launcher Free, you agree to this Policy.
 
 
 
-### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="16" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Information We Collect
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Information We Collect
 
 - Device information (model, OS version, language, country).
 - Usage analytics (events, screens, interactions).
@@ -12,14 +12,14 @@ DMR Launcher (package name: `io.github.dmrdev727.dmrlauncher.free`) is provided 
 
 
 
-### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="16" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Permissions and Purpose
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Permissions and Purpose
 
 - Photos/Media to select or store images and other media.
 - Files/Storage to import, export, or cache content.
 
 
 
-### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="16" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> How We Use Information
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> How We Use Information
 
 - Provide and improve app functionality.
 - Personalize content and features.
@@ -29,7 +29,7 @@ DMR Launcher (package name: `io.github.dmrdev727.dmrlauncher.free`) is provided 
 
 
 
-### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="16" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Sharing of Information
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Sharing of Information
 
 - Analytics providers (e.g., Google Analytics for Firebase).
 - Crash reporting providers (e.g., Firebase Crashlytics).
@@ -39,37 +39,37 @@ DMR Launcher (package name: `io.github.dmrdev727.dmrlauncher.free`) is provided 
 
 
 
-### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="16" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Data Retention
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Data Retention
 
 We keep personal data only as long as necessary for the purposes described in this Policy or as required by law. You may request deletion of your account or certain data by contacting us at dmrdev727@gmail.com.
 
 
 
-### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="16" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Security
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Security
 
 We implement reasonable technical and organizational measures to protect information. However, no method of transmission or storage is 100% secure.
 
 
 
-### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="16" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Children’s Privacy
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Children’s Privacy
 
 The app is not directed to children under 13 (or the minimum age in your jurisdiction). If you believe a child provided personal information, contact us to delete it.
 
 
 
-### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="16" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Your Rights & Choices
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Your Rights & Choices
 
 Depending on your location (e.g., EU/EEA, UK, California), you may have rights to access, correct, delete, or port your data, and object to certain processing. To exercise rights, contact us at dmrdev727@gmail.com.
 
 
 
-### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="16" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> International Transfers
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> International Transfers
 
 Your information may be processed and stored in countries other than your own. Where required, we rely on appropriate safeguards for international transfers.
 
 
 
-### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="16" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Third-Party Services & SDKs
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Third-Party Services & SDKs
 
 The app may integrate the following services:
 
@@ -79,13 +79,13 @@ The app may integrate the following services:
 
 
 
-### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="16" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Changes to This Policy
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Changes to This Policy
 
 We may update this Policy to reflect changes to the app or applicable laws. We will post the updated Policy with a new “Effective date”.
 
 
 
-### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="16" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Contact Us
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Contact Us
 
 If you have questions about this Policy or privacy practices, contact us:
 
@@ -96,6 +96,6 @@ If you have questions about this Policy or privacy practices, contact us:
 
 
 
-### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="16" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Effective Date
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Effective Date
 
 2026-08-11
