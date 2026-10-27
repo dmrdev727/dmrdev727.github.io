@@ -25,3 +25,13 @@ header.inner td {
     margin-bottom: 0 !important;
     margin-top: 0 !important;
 }
+
+
+
+h1, h2, h3, h4, h5, h6 {
+  background-image: url('/assets/images/dmr_launcher_icon_white.png');
+  background-repeat: no-repeat;
+  background-position: left center;
+  padding-left: 40px; /* Adjust based on logo width */
+  background-size: 20px; /* Adjust based on logo size */
+}
