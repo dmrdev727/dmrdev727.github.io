@@ -4,12 +4,12 @@ Currently in open testing on Google Play. DMR Launcher is a solo effort from som
 DMR Launcher is built for people who want to efficiently navigate their android experience, packed with useful features and theme options.
 <!-- Blank line here -->
 
-<!-- 
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5107869374189897"
      crossorigin="anonymous"></script>
--->
+
 <!-- Website Banner -->
-<!-- 
+ 
 <div style="display:block; width:100%; min-height:0px; overflow:hidden;">
   <ins class="adsbygoogle"
        style="display:block;"
@@ -21,7 +21,7 @@ DMR Launcher is built for people who want to efficiently navigate their android 
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
--->
+
 
 
 ## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="22" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> DMR Launcher vs DMR Launcher Pro?
@@ -56,6 +56,15 @@ DMR Launcher Pro contains no advertisements.
 
 **Speed without compromise!** Experience a launcher that prioritises your time and your device's performance. DMR Launcher provides a highly responsive interface where you can customize the animations to suit your taste or turn them off entirely for an ultra-fast, no-nonsense experience. It’s simple, it’s fast, and it’s designed to work perfectly with your lifestyle.<br/>
 
+<div style="display:block; width:100%; min-height:0px; overflow:hidden;">
+  <ins class="adsbygoogle"
+       style="display:block;"
+       data-ad-client="ca-pub-5107869374189897"
+       data-ad-slot="2989626341"
+       data-ad-format="horizontal"
+       data-full-width-responsive="true"></ins>
+</div>
+
 <!-- Blank line here -->
 ## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="22" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> To-Do List
 1. The Notification Bar Style setting should not apply to the App Drawer.
@@ -79,3 +88,12 @@ DMR Launcher Pro contains no advertisements.
 
 ## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="22" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Contact
 [Email me your feedback and ideas at dmrdev727@gmail.com](mailto:dmrdev727@gmail.com)
+
+<div style="display:block; width:100%; min-height:0px; overflow:hidden;">
+  <ins class="adsbygoogle"
+       style="display:block;"
+       data-ad-client="ca-pub-5107869374189897"
+       data-ad-slot="2989626341"
+       data-ad-format="horizontal"
+       data-full-width-responsive="true"></ins>
+</div>
