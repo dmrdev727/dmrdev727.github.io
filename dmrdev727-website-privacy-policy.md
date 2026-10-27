@@ -1,4 +1,4 @@
-### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="16" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Privacy Policy for dmrdev727.github.io
+## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="20" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Privacy Policy for dmrdev727.github.io
 
 Last updated: October 24, 2026
 
