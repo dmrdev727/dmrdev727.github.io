@@ -1,4 +1,4 @@
-## <img src="/assets/images/dmr_launcher_icon_white_small.png" alt="DMR Launcher Logo" width="20" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"> DMR Launcher
+## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="20" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> DMR Launcher
 
 Currently in open testing on Google Play. DMR Launcher is a solo effort from someone who wants more functionality available in their android launcher!<br/>
 DMR Launcher is built for people who want to efficiently navigate their android experience, packed with useful features and theme options.
@@ -24,14 +24,14 @@ DMR Launcher is built for people who want to efficiently navigate their android 
 -->
 
 
-## <img src="/assets/images/dmr_launcher_icon_white_small.png" alt="DMR Launcher Logo" width="20" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"> DMR Launcher vs DMR Launcher Pro?
+## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="20" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> DMR Launcher vs DMR Launcher Pro?
 All features are available in both apps however I update and test the Pro app first.<br/>
 DMR Launcher contains Google Admob advertisements in the App Drawer and Search Screen.<br/>
 DMR Launcher Pro contains no advertisements.
 
 <!-- Blank line here -->
 
-## <img src="/assets/images/dmr_launcher_icon_white_small.png" alt="DMR Launcher Logo" width="20" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"> Features
+## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="20" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Features
 **Find what you need!** No need to dig through endless folders and nested menus to find that one specific setting or app. DMR Launcher Search puts everything you need right at your fingertips. Whether you’re looking for a specific app, trying to toggle a system setting, launching a custom shortcut, or deep-diving into a specific app activity. And if the answer isn't on your phone, you can jump straight to a web search in your default browser using your default search engine.<br/>
 
 **Declutter your home screen!** Tired of a cluttered home screen filled with icons you rarely use? Our launcher offers a minimalist experience that puts your focus back on what matters. At the bottom of your screen, you’ll find a customisable Dock which is the perfect home for your most-used apps. You can even add folders to the dock to group related tools together, keeping everything organised and just one tap away. Whether you prefer our sleek default single-row layout or want to expand it to multiple rows, you have full control over how your workspace looks and functions.<br/>
@@ -57,7 +57,7 @@ DMR Launcher Pro contains no advertisements.
 **Speed without compromise!** Experience a launcher that prioritises your time and your device's performance. DMR Launcher provides a highly responsive interface where you can customize the animations to suit your taste or turn them off entirely for an ultra-fast, no-nonsense experience. It’s simple, it’s fast, and it’s designed to work perfectly with your lifestyle.<br/>
 
 <!-- Blank line here -->
-## <img src="/assets/images/dmr_launcher_icon_white_small.png" alt="DMR Launcher Logo" width="20" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"> To-Do List
+## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="20" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> To-Do List
 1. The Notification Bar Style setting should not apply to the App Drawer.
 2. Shortcut to add a permanent Web Shortcut from a Search History record of a manually typed URL.
 3. Update the controller / keyboard navigation on the Home Screen to work nicely when the Navigation Buttons are enabled.
@@ -66,7 +66,7 @@ DMR Launcher Pro contains no advertisements.
 6. Publish the Pro app to F-Droid (someday hopefully)
 <!-- Blank line here -->
 
-## <img src="/assets/images/dmr_launcher_icon_white_small.png" alt="DMR Launcher Logo" width="20" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"> Design Decisions
+## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="20" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Design Decisions
 1. Fundamentally, this launcher reflects how I like to setup my phone with configuration options available to setup the launcher in several other ways. My preferences are:
 + One row of icons and folders at the bottom of the home screen for easy access one handed.
 + App drawer displayed in fixed grid pages so I can built muscle memory to open apps quickly.
@@ -77,5 +77,5 @@ DMR Launcher Pro contains no advertisements.
 4. To ensure the app is accessible, I have tried to ensure the whole app is navigable by controller, keyboard inputs, or screen reader inputs. Let me know if there is anything I can improve.
 <!-- Blank line here -->
 
-## <img src="/assets/images/dmr_launcher_icon_white_small.png" alt="DMR Launcher Logo" width="20" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"> Contact
+## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="20" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Contact
 [Email me your feedback and ideas at dmrdev727@gmail.com](mailto:dmrdev727@gmail.com)
