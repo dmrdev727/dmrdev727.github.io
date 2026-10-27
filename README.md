@@ -5,9 +5,6 @@ DMR Launcher is built for people who want to efficiently navigate their android 
 <!-- Blank line here -->
 
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5107869374189897"
-     crossorigin="anonymous"></script>
-
 <!-- Website Banner -->
  
 <div style="display:block; width:100%; min-height:0px; overflow:hidden;">
@@ -17,6 +14,7 @@ DMR Launcher is built for people who want to efficiently navigate their android 
        data-ad-slot="2989626341"
        data-ad-format="horizontal"
        data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
 
@@ -30,6 +28,7 @@ DMR Launcher Pro contains no advertisements.
 <!-- Blank line here -->
 
 ## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="22" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Features
+
 **Find what you need!** No need to dig through endless folders and nested menus to find that one specific setting or app. DMR Launcher Search puts everything you need right at your fingertips. Whether you’re looking for a specific app, trying to toggle a system setting, launching a custom shortcut, or deep-diving into a specific app activity. And if the answer isn't on your phone, you can jump straight to a web search in your default browser using your default search engine.<br/>
 
 **Declutter your home screen!** Tired of a cluttered home screen filled with icons you rarely use? Our launcher offers a minimalist experience that puts your focus back on what matters. At the bottom of your screen, you’ll find a customisable Dock which is the perfect home for your most-used apps. You can even add folders to the dock to group related tools together, keeping everything organised and just one tap away. Whether you prefer our sleek default single-row layout or want to expand it to multiple rows, you have full control over how your workspace looks and functions.<br/>
@@ -41,6 +40,16 @@ DMR Launcher Pro contains no advertisements.
 **Tailor it to your taste!** Your launcher should be an extension of your style. With DMR Launcher, every component—from buttons and menus to icons—automatically updates to match your chosen theme settings for a seamless look. You have the power to pick custom accent colours via hex codes, adjust icon sizes and saturation levels, and choose between different background layouts. It’s not just about changing a colour; it’s about crafting an interface that feels exactly how you want it to.<br/>
 
 **Shortcut tedious apps!** Don't just open an app, open a specific action. DMR Launcher supports pinned shortcuts that let you jump straight into deep functions or Progressive Web Apps (PWAs) from your browser. This allows you to create "fast-tracks" for frequent tasks: pin key contacts, open a Spotify playlist with one tap, or launch a dedicated web tool as if it were an installed app. By bypassing unnecessary home screens and menus, you can streamline your routine and keep your most-used functions front and center.<br/>
+
+<div style="display:block; width:100%; min-height:0px; overflow:hidden;">
+  <ins class="adsbygoogle"
+       style="display:block;"
+       data-ad-client="ca-pub-5107869374189897"
+       data-ad-slot="2989626341"
+       data-ad-format="horizontal"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 
 **Stop the scroll!** Fight back with our innovative Visual Deterrent system. DMR Launcher provides a subtle visual cue when you repeatedly open the same app within a 10-minute window by desaturating its icon. These "Repeated Use Visual Queues" are designed to break app addiction and help you stay mindful of how much time you spend in specific apps. By turning habit-tracking into a visual experience, the launcher helps you identify and break the cycles of doom-scrolling so you can stay productive and present.<br/>
 
@@ -61,6 +70,7 @@ DMR Launcher Pro contains no advertisements.
        data-ad-slot="2989626341"
        data-ad-format="horizontal"
        data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
 <!-- Blank line here -->
@@ -94,7 +104,5 @@ DMR Launcher Pro contains no advertisements.
        data-ad-slot="2989626341"
        data-ad-format="horizontal"
        data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
