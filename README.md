@@ -1,10 +1,5 @@
 ## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="22" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> DMR Launcher
 
-Currently in open testing on Google Play. DMR Launcher is a solo effort from someone who wants more functionality available in their android launcher!<br/>
-DMR Launcher is built for people who want to efficiently navigate their android experience, packed with useful features and theme options.
-<!-- Blank line here -->
-
-
 <!-- Website Banner -->
  
 <div style="display:block; width:100%; min-height:0px; overflow:hidden;">
@@ -17,8 +12,9 @@ DMR Launcher is built for people who want to efficiently navigate their android 
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
-
-
+Currently in open testing on Google Play. DMR Launcher is a solo effort from someone who wants more functionality available in their android launcher!<br/>
+DMR Launcher is built for people who want to efficiently navigate their android experience, packed with useful features and theme options.
+<!-- Blank line here -->
 
 ## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="22" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> DMR Launcher vs DMR Launcher Pro?
 All features are available in both apps however I update and test the Pro app first.<br/>
@@ -43,10 +39,10 @@ DMR Launcher Pro contains no advertisements.
 
 <div style="display:block; width:100%; min-height:0px; overflow:hidden;">
   <ins class="adsbygoogle"
-       style="display:block;"
+       style="display:block"
        data-ad-client="ca-pub-5107869374189897"
-       data-ad-slot="2989626341"
-       data-ad-format="horizontal"
+       data-ad-slot="5015419223"
+       data-ad-format="auto"
        data-full-width-responsive="true"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
@@ -65,10 +61,10 @@ DMR Launcher Pro contains no advertisements.
 
 <div style="display:block; width:100%; min-height:0px; overflow:hidden;">
   <ins class="adsbygoogle"
-       style="display:block;"
+       style="display:block"
        data-ad-client="ca-pub-5107869374189897"
-       data-ad-slot="2989626341"
-       data-ad-format="horizontal"
+       data-ad-slot="5015419223"
+       data-ad-format="auto"
        data-full-width-responsive="true"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
@@ -99,10 +95,10 @@ DMR Launcher Pro contains no advertisements.
 
 <div style="display:block; width:100%; min-height:0px; overflow:hidden;">
   <ins class="adsbygoogle"
-       style="display:block;"
+       style="display:block"
        data-ad-client="ca-pub-5107869374189897"
-       data-ad-slot="2989626341"
-       data-ad-format="horizontal"
+       data-ad-slot="5015419223"
+       data-ad-format="auto"
        data-full-width-responsive="true"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
