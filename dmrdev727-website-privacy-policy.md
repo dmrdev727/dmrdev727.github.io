@@ -1,4 +1,4 @@
-## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="20" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Privacy Policy for dmrdev727.github.io
+## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="22" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Privacy Policy for dmrdev727.github.io
 
 Last updated: October 24, 2026
 
@@ -8,17 +8,17 @@ If you have additional questions or require more information about our Privacy P
 
 This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in dmrdev727.github.io. This policy is not applicable to any information collected offline or via channels other than this website.
 
-### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="16" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Consent
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Consent
 
 By using our website, you hereby consent to our Privacy Policy and agree to its terms.
 
-### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="16" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Information we collect
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Information we collect
 
 The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.
 
 If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.
 
-### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="16" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> How we use your information
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> How we use your information
 
 We use the information we collect in various ways, including to:
 
@@ -30,19 +30,19 @@ We use the information we collect in various ways, including to:
 + Send you emails
 + Find and prevent fraud
 
-### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="16" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Log Files
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Log Files
 
 dmrdev727.github.io follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.
 
-### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="16" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Cookies and Web Beacons
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Cookies and Web Beacons
 
 Like any other website, dmrdev727.github.io uses 'cookies'. These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.
 
-### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="16" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Google DoubleClick DART Cookie
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Google DoubleClick DART Cookie
 
 Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.website.com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL – https://policies.google.com/technologies/ads
 
-### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="16" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Advertising Partners Privacy Policies
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Advertising Partners Privacy Policies
 
 You may consult this list to find the Privacy Policy for each of the advertising partners of dmrdev727.github.io.
 
@@ -50,13 +50,13 @@ Third-party ad servers or ad networks uses technologies like cookies, JavaScript
 
 Note that dmrdev727.github.io has no access to or control over these cookies that are used by third-party advertisers.
 
-### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="16" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Third Party Privacy Policies
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Third Party Privacy Policies
 
 dmrdev727.github.io's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
 
 You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.
 
-### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="16" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> CCPA Privacy Rights (Do Not Sell My Personal Information)
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> CCPA Privacy Rights (Do Not Sell My Personal Information)
 
 Under the CCPA, among other rights, California consumers have the right to:
 
@@ -68,7 +68,7 @@ Request that a business that sells a consumer's personal data, not sell the cons
 
 If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.
 
-### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="16" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> GDPR Data Protection Rights
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> GDPR Data Protection Rights
 
 We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
 
@@ -86,7 +86,7 @@ The right to data portability – You have the right to request that we transfer
 
 If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.
 
-### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="16" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Children's Information
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Children's Information
 
 Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
 
