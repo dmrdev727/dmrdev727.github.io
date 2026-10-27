@@ -1,5 +1,17 @@
 ## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="22" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> DMR Launcher Pro Builds
 
+<!-- Website Banner -->
+ 
+<div style="display:block; width:100%; min-height:0px; overflow:hidden;">
+  <ins class="adsbygoogle"
+       style="display:block;"
+       data-ad-client="ca-pub-5107869374189897"
+       data-ad-slot="2989626341"
+       data-ad-format="horizontal"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 ### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 241
 + App Drawer style fixes
 + Navigation Buttons padding and layout fixes
@@ -52,3 +64,15 @@
 + New Add Drawer List layout with A to Z quick scroll bar.
 + Widget fix & improvements. Thanks for the feedback on reddit.
 + App Drawer Layout tweaks and more options.
+
+<!-- Website Banner -->
+ 
+<div style="display:block; width:100%; min-height:0px; overflow:hidden;">
+  <ins class="adsbygoogle"
+       style="display:block;"
+       data-ad-client="ca-pub-5107869374189897"
+       data-ad-slot="2989626341"
+       data-ad-format="horizontal"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
