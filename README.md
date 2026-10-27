@@ -1,4 +1,4 @@
-## DMR Launcher
+## ![DMR Launcher Logo](/assets/images/dmr_launcher_icon_white_small.png) DMR Launcher
 Currently in open testing on Google Play. DMR Launcher is a solo effort from someone who wants more functionality available in their android launcher!<br/>
 DMR Launcher is built for people who want to efficiently navigate their android experience, packed with useful features and theme options.
 <!-- Blank line here -->
