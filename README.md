@@ -18,9 +18,7 @@ DMR Launcher is built for people who want to efficiently navigate their android 
        data-ad-format="horizontal"
        data-full-width-responsive="true"></ins>
 </div>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
 
 
 
@@ -97,3 +95,6 @@ DMR Launcher Pro contains no advertisements.
        data-ad-format="horizontal"
        data-full-width-responsive="true"></ins>
 </div>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
