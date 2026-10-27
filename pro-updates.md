@@ -1,10 +1,10 @@
-## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="20" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> DMR Launcher Pro Builds
+## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="22" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> DMR Launcher Pro Builds
 
-### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="16" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 241
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 241
 + App Drawer style fixes
 + Navigation Buttons padding and layout fixes
 
-### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="16" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 240
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 240
 + Accessibility option to display App Drawer and Search shortcut buttons at the bottom of the screen.
 + Resolved a visual bug preventing the app drawer appearing.
 + Added ability to edit pinned shortcuts.
@@ -17,30 +17,30 @@
 + Settings menu titles updated.
 
 
-### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="16" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 234
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 234
 21 Oct 14:31
 + Added support for Pinned Shortcuts (for example, Add to Home from internet browsers).
 + Added a section filter to the DMR Launcher Search Screen.
 + Improved performance and memory management. App icons held in memory until Android OS signals memory pressure (TRIM_MEMORY_BACKGROUND, TRIM_MEMORY_RUNNING_LOW, TRIM_MEMORY_RUNNING_CRITICAL, or TRIM_MEMORY_COMPLETE).
 + Fixed App Deterrent not applying immediately.
 
-### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="16" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 218
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 218
 12 Oct 20:21
 + Restored app shortcut results in search.
 + Improved keyboard, controller, and accessibility navigation inputs.
 + Fixed app crashes.
 
-### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="16" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 207
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 207
 1 Oct 2026 14:20
 + Fixed input bug caused by widget placement.
 + Reduced device memory use.
 
-### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="16" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 191
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 191
 4 Sept 2026 07:43
 + Search box now acts like a browser address bar + web searches are always launched in default browser.
 + Uncategorised tab can be re-ordered.
 
-### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="16" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 178
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 178
 27 Aug 2026 06:49
 + Dark & Light mode
 + Notification indicators improvements
