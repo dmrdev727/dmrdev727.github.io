@@ -72,7 +72,7 @@
        style="display:block"
        data-ad-client="ca-pub-5107869374189897"
        data-ad-slot="5015419223"
-       data-ad-format="auto"
+       data-ad-format="horizontal"
        data-full-width-responsive="true"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
