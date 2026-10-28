@@ -2,15 +2,7 @@
 
 <!-- Website Banner -->
  
-<div style="display:block; width:100%; min-height:0px; overflow:hidden;">
-  <ins class="adsbygoogle"
-       style="display:block;"
-       data-ad-client="ca-pub-5107869374189897"
-       data-ad-slot="2989626341"
-       data-ad-format="horizontal"
-       data-full-width-responsive="true"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
+{% include topbanner.html %}
 
 ### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 244
 + Fixed editing Website Shortcuts from search result context menu.
@@ -72,12 +64,4 @@
 
 <!-- Website Banner -->
  
-<div style="display:block; width:100%; min-height:0px; overflow:hidden;">
-  <ins class="adsbygoogle"
-       style="display:block"
-       data-ad-client="ca-pub-5107869374189897"
-       data-ad-slot="5015419223"
-       data-ad-format="horizontal"
-       data-full-width-responsive="true"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
+{% include lowerbanner.html %}
