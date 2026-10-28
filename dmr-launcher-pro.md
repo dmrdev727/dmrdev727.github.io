@@ -1,5 +1,5 @@
 
-## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="22" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Privacy Policy for DMR Launcher Pro
+## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="23" height="21" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Privacy Policy for DMR Launcher Pro
 
 DMR Launcher Pro (package name: `io.github.dmrdev727.dmrlauncher`) is provided by DMRDev727 (Dean Rogers). This Privacy Policy explains how we collect, use, and protect information when you use the app. By using DMR Launcher, you agree to this Policy.
 
