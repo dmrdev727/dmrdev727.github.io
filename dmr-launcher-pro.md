@@ -96,3 +96,4 @@ If you have questions about this Policy or privacy practices, contact us:
 ### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Effective Date
 
 2026-07-29
+{% include lowerbanner.html %}
