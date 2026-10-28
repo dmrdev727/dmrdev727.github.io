@@ -1,4 +1,4 @@
-## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="22" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> DMR Launcher
+## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="23" height="21" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> DMR Launcher
 
 <!-- Website Banner -->
  
@@ -16,14 +16,14 @@ Currently in open testing on Google Play. DMR Launcher is a solo effort from som
 DMR Launcher is built for people who want to efficiently navigate their android experience, packed with useful features and theme options.
 <!-- Blank line here -->
 
-## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="22" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> DMR Launcher vs DMR Launcher Pro?
+## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="23" height="21" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> DMR Launcher vs DMR Launcher Pro?
 All features are available in both apps however I update and test the Pro app first.<br/>
 DMR Launcher contains Google Admob advertisements in the App Drawer and Search Screen.<br/>
 DMR Launcher Pro contains no advertisements.
 
 <!-- Blank line here -->
 
-## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="22" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Features
+## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="23" height="21" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Features
 
 **Find what you need!** No need to dig through endless folders and nested menus to find that one specific setting or app. DMR Launcher Search puts everything you need right at your fingertips. Whether you’re looking for a specific app, trying to toggle a system setting, launching a custom shortcut, or deep-diving into a specific app activity. And if the answer isn't on your phone, you can jump straight to a web search in your default browser using your default search engine.<br/>
 
@@ -70,7 +70,7 @@ DMR Launcher Pro contains no advertisements.
 </div>
 
 <!-- Blank line here -->
-## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="22" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> To-Do List
+## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="23" height="21" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> To-Do List
 1. The Notification Bar Style setting should not apply to the App Drawer.
 2. Shortcut to add a permanent Web Shortcut from a Search History record of a manually typed URL.
 3. Update the controller / keyboard navigation on the Home Screen to work nicely when the Navigation Buttons are enabled.
@@ -79,7 +79,7 @@ DMR Launcher Pro contains no advertisements.
 6. Publish the Pro app to F-Droid (someday hopefully)
 <!-- Blank line here -->
 
-## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="22" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Design Decisions
+## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="23" height="21" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Design Decisions
 1. Fundamentally, this launcher reflects how I like to setup my phone with configuration options available to setup the launcher in several other ways. My preferences are:
 + One row of icons and folders at the bottom of the home screen for easy access one handed.
 + App drawer displayed in fixed grid pages so I can built muscle memory to open apps quickly.
@@ -90,7 +90,7 @@ DMR Launcher Pro contains no advertisements.
 4. To ensure the app is accessible, I have tried to ensure the whole app is navigable by controller, keyboard inputs, or screen reader inputs. Let me know if there is anything I can improve.
 <!-- Blank line here -->
 
-## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="22" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Contact
+## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="23" height="21" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Contact
 [Email me your feedback and ideas at dmrdev727@gmail.com](mailto:dmrdev727@gmail.com)
 
 <div style="display:block; width:100%; min-height:0px; overflow:hidden;">
