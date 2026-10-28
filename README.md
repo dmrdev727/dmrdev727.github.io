@@ -2,15 +2,7 @@
 
 <!-- Website Banner -->
  
-<div style="display:block; width:100%; min-height:0px; overflow:hidden;">
-  <ins class="adsbygoogle"
-       style="display:block;"
-       data-ad-client="ca-pub-5107869374189897"
-       data-ad-slot="2989626341"
-       data-ad-format="horizontal"
-       data-full-width-responsive="true"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
+{% include topbanner.html %}
 
 Currently in open testing on Google Play. DMR Launcher is a solo effort from someone who wants more functionality available in their android launcher!<br/>
 DMR Launcher is built for people who want to efficiently navigate their android experience, packed with useful features and theme options.
@@ -37,15 +29,7 @@ DMR Launcher Pro contains no advertisements.
 
 **Shortcut tedious apps!** Don't just open an app, open a specific action. DMR Launcher supports pinned shortcuts that let you jump straight into deep functions or Progressive Web Apps (PWAs) from your browser. This allows you to create "fast-tracks" for frequent tasks: pin key contacts, open a Spotify playlist with one tap, or launch a dedicated web tool as if it were an installed app. By bypassing unnecessary home screens and menus, you can streamline your routine and keep your most-used functions front and center.<br/>
 
-<div style="display:block; width:100%; min-height:0px; overflow:hidden;">
-  <ins class="adsbygoogle"
-       style="display:block"
-       data-ad-client="ca-pub-5107869374189897"
-       data-ad-slot="5015419223"
-       data-ad-format="horizontal"
-       data-full-width-responsive="true"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
+{% include lowerbanner.html %}
 
 **Stop the scroll!** Fight back with our innovative Visual Deterrent system. DMR Launcher provides a subtle visual cue when you repeatedly open the same app within a 10-minute window by desaturating its icon. These "Repeated Use Visual Queues" are designed to break app addiction and help you stay mindful of how much time you spend in specific apps. By turning habit-tracking into a visual experience, the launcher helps you identify and break the cycles of doom-scrolling so you can stay productive and present.<br/>
 
@@ -59,15 +43,7 @@ DMR Launcher Pro contains no advertisements.
 
 **Speed without compromise!** Experience a launcher that prioritises your time and your device's performance. DMR Launcher provides a highly responsive interface where you can customize the animations to suit your taste or turn them off entirely for an ultra-fast, no-nonsense experience. It’s simple, it’s fast, and it’s designed to work perfectly with your lifestyle.<br/>
 
-<div style="display:block; width:100%; min-height:0px; overflow:hidden;">
-  <ins class="adsbygoogle"
-       style="display:block"
-       data-ad-client="ca-pub-5107869374189897"
-       data-ad-slot="5015419223"
-       data-ad-format="horizontal"
-       data-full-width-responsive="true"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
+{% include lowerbanner.html %}
 
 <!-- Blank line here -->
 ## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="23" height="21" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> To-Do List
@@ -93,12 +69,4 @@ DMR Launcher Pro contains no advertisements.
 ## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="23" height="21" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Contact
 [Email me your feedback and ideas at dmrdev727@gmail.com](mailto:dmrdev727@gmail.com)
 
-<div style="display:block; width:100%; min-height:0px; overflow:hidden;">
-  <ins class="adsbygoogle"
-       style="display:block"
-       data-ad-client="ca-pub-5107869374189897"
-       data-ad-slot="5015419223"
-       data-ad-format="horizontal"
-       data-full-width-responsive="true"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
+{% include lowerbanner.html %}
