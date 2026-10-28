@@ -1,4 +1,4 @@
-## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="22" height="20" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> DMR Launcher Builds
+## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="23" height="21" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> DMR Launcher Builds
 
 <!-- Website Banner -->
  
