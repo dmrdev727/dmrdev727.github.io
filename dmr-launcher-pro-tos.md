@@ -1,5 +1,5 @@
 ## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="23" height="21" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> END USER LICENSE AGREEMENT & TERMS OF SERVICE
-Application: DMR Launcher<br/>
+Application: DMR Launcher Pro<br/>
 Developer / Licensor: dmrdev727<br/>
 Effective Date: 2026-11-04<br/>
 Contact: dmrdev727@gmail.com<br/>
