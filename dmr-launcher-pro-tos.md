@@ -1,11 +1,11 @@
 ## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="23" height="21" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> END USER LICENSE AGREEMENT & TERMS OF SERVICE
-Application: DMR Launcher
-Developer / Licensor: dmrdev727
-Effective Date: 2026-11-04
-Contact: dmrdev727@gmail.com
+Application: DMR Launcher<br/>
+Developer / Licensor: dmrdev727<br/>
+Effective Date: 2026-11-04<br/>
+Contact: dmrdev727@gmail.com<br/>
 
 ### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> BINDING AGREEMENT & LICENSE GRANT
-By downloading, installing, accessing, or using DMR Launcher Pro with package name io.github.dmrdev727.dmrlauncher (the "Application"), you agree to be bound by this End User License Agreement ("EULA") and Terms of Service. If you do not agree, do not install or use the Application.
+By downloading, installing, accessing, or using DMR Launcher Pro with package name io.github.dmrdev727.dmrlauncher (the "Application"), you agree to be bound by this End User License Agreement ("EULA") and Terms of Service. If you do not agree, do not install or use the Application.<br/>
 dmrdev727 grants you a personal, non-exclusive, non-transferable, revocable license to use the Application strictly on compatible Android devices owned or controlled by you, subject to Google Play Terms of Service.
 
 
@@ -47,5 +47,5 @@ This Agreement shall be governed by and construed in accordance with the laws of
 ### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> CONTACT & LEGAL NOTICES
 
 For any legal inquiries, support requests, or license questions, please contact:
-dmrdev727
+dmrdev727<br/>
 Email: dmrdev727@gmail.com
