@@ -106,12 +106,15 @@
         </div> -->
         <div id="video-container" style="
             width: 100%; 
-            max-width: 400px; /* Limits width to look like a phone screen */
+            max-width: 250px; 
             margin: 0 auto; 
             padding: 0px;
-            aspect-ratio: 9 / 16; /* Forces the vertical Shorts ratio */
-            height: auto;
-            background-color: #000; /* Black background like the Shorts player */
+            aspect-ratio: 9 / 16; 
+            height: 0; /* Required for aspect-ratio to work in older browsers */
+            overflow: hidden;
+            background-color: #000;
+            /* This ensures the container takes up space in the document flow */
+            display: block; 
         ">
           <iframe
             id="random-youtube-player"
@@ -128,7 +131,8 @@
               left: 0;
             "
           ></iframe>
-        </div>        
+        </div>
+
         <script>
           // List your video IDs here
           const videoIds = [
