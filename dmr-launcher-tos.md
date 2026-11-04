@@ -13,11 +13,6 @@ dmrdev727 grants you a personal, non-exclusive, non-transferable, revocable lice
 
 You represent that you are at least 16 years of age.
 
-  
-3. BILLING, IN-APP PURCHASES & SUBSCRIPTIONS
-  
-All purchases and billing transactions are processed securely through Google Play In-App Billing.
-• In-App Consumables & Digital Goods: All virtual items, credits, and unlocked premium features are personal, non-refundable, and non-exchangeable for fiat currency.
 
 
   
@@ -49,3 +44,4 @@ This Agreement shall be governed by and construed in accordance with the laws of
 For any legal inquiries, support requests, or license questions, please contact:
 dmrdev727
 Email: dmrdev727@gmail.com
+
