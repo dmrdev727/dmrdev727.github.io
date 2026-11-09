@@ -4,7 +4,7 @@
  
 {% include topbanner.html %}
 
-248
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 248
 + Crash fix com.example.data.repository.LauncherRepository$getInstalledApps$2.invokeSuspend
 
 ### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 247
