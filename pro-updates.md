@@ -5,6 +5,7 @@
 {% include topbanner.html %}
 
 ### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 247
+11 Nov 2026, 11:53
 + Added localisation & translations! Please let me know if any translations need improvement.
 + Added the ability to reset App Shortcuts.
 + Minor UI fixes.
@@ -12,16 +13,18 @@
 + Crash fix com. example. data. repository. LauncherRepository$getInstalledApps$2. invokeSuspend
 
 ### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 244
-5 Nov 02:37
+28 Oct 2026, 18:30
 + Fixed editing Website Shortcuts from search result context menu.
 + Fixed controller navigation bug in Dock and settings.
 + Ensured search box is always cleared when leaving the search screen.
 
 ### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 241
+24 Oct 2026, 12:44
 + App Drawer style fixes
 + Navigation Buttons padding and layout fixes
 
 ### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 240
+23 Oct 2026, 10:45
 + Accessibility option to display App Drawer and Search shortcut buttons at the bottom of the screen.
 + Resolved a visual bug preventing the app drawer appearing.
 + Added ability to edit pinned shortcuts.
