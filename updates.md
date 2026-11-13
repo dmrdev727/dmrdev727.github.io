@@ -3,6 +3,7 @@
 <!-- Website Banner -->
 
 ### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 248 (based on pro build 247)
+13 Nov 2026, 10:19
 + Added localisation & translations! Please let me know if any translations need improvement.
 + Added the ability to reset App Shortcuts.
 + Minor UI fixes.
@@ -25,7 +26,7 @@
 + Settings menu titles updated.
 
 ### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 240 (based on pro build 234)
-3 Nov 06:58
+21 Oct 2026, 08:45
 + Added support for Pinned Shortcuts (for example, Add to Home from internet browsers).
 + Added a section filter to the DMR Launcher Search Screen.
 + Improved performance and memory management. App icons held in memory until Android OS signals memory pressure (TRIM_MEMORY_BACKGROUND, TRIM_MEMORY_RUNNING_LOW, TRIM_MEMORY_RUNNING_CRITICAL, or TRIM_MEMORY_COMPLETE).
@@ -33,7 +34,7 @@
 + Google Admob integration.
 
 ### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 219
-15 Oct 15:22
+7 Oct 2026, 08:47
 + Major update 219.
 + Accessibility input support (controller, remote, keyboard).
 + Search improvements.
