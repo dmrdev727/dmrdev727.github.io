@@ -38,30 +38,30 @@
 
 
 ### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 234
-21 Oct 14:31
+15 Oct 2026, 10:05
 + Added support for Pinned Shortcuts (for example, Add to Home from internet browsers).
 + Added a section filter to the DMR Launcher Search Screen.
 + Improved performance and memory management. App icons held in memory until Android OS signals memory pressure (TRIM_MEMORY_BACKGROUND, TRIM_MEMORY_RUNNING_LOW, TRIM_MEMORY_RUNNING_CRITICAL, or TRIM_MEMORY_COMPLETE).
 + Fixed App Deterrent not applying immediately.
 
 ### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 218
-12 Oct 20:21
+6 Oct 2026, 09:11
 + Restored app shortcut results in search.
 + Improved keyboard, controller, and accessibility navigation inputs.
 + Fixed app crashes.
 
 ### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 207
-1 Oct 2026 14:20
+25 Sept 2026, 09:29
 + Fixed input bug caused by widget placement.
 + Reduced device memory use.
 
 ### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 191
-4 Sept 2026 07:43
+31 Aug 2026, 10:12
 + Search box now acts like a browser address bar + web searches are always launched in default browser.
 + Uncategorised tab can be re-ordered.
 
 ### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 178
-27 Aug 2026 06:49
+25 Aug 2026, 11:32
 + Dark & Light mode
 + Notification indicators improvements
 + Website Shortcuts can now be categorised.
