@@ -12,6 +12,7 @@
 + Crash fix com. example. data. repository. LauncherRepository$getInstalledApps$2. invokeSuspend
 
 ### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 244
+5 Nov 02:37
 + Fixed editing Website Shortcuts from search result context menu.
 + Fixed controller navigation bug in Dock and settings.
 + Ensured search box is always cleared when leaving the search screen.
