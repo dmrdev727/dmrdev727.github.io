@@ -2,7 +2,7 @@
 
 <!-- Website Banner -->
 
-### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 248 (based on pro build 247)
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 249 (based on pro build 247)
 13 Nov 2026, 10:19
 + Added localisation & translations! Please let me know if any translations need improvement.
 + Added the ability to reset App Shortcuts.
