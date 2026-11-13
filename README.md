@@ -47,10 +47,9 @@ DMR Launcher Pro contains no advertisements.
 
 <!-- Blank line here -->
 ## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="23" height="21" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> To-Do List
-1. Add the button to reset App Shortcuts to all context menus.
-2. Further localisation / translation.
-3. Investigate further Screen Reader & Accessibility options.
-4. Widget overhaul (multiple widgets, multiple pages of widgets).
+
+1. Investigate further Screen Reader & Accessibility options.
+2. Widget overhaul (multiple widgets, multiple pages of widgets).
 <!-- Blank line here -->
 
 ## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="23" height="21" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Design Decisions
