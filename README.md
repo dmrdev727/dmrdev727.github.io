@@ -10,7 +10,7 @@ DMR Launcher is built for people who want to efficiently navigate their android 
 
 ## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="23" height="21" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> DMR Launcher vs DMR Launcher Pro?
 All features are available in both apps however I update and test the Pro app first.<br/>
-DMR Launcher contains Google Admob advertisements in the App Drawer and Search Screen.<br/>
+DMR Launcher contains Google Admob advertisements in the App Drawer, Search screen, and Settings screen.<br/>
 DMR Launcher Pro contains no advertisements.
 
 <!-- Blank line here -->
