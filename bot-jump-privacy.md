@@ -3,7 +3,6 @@
 Bot Jump (package name: `io.github.dmrdev727.botjump`) is provided by DMRDev727 (Dean Martin Rogers). This Privacy Policy explains how we collect, use, and protect information when you use the app. By using Bot Jump, you agree to this Policy.
 
 
-
 ### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Information We Collect
 
 - Device information (model, OS version, language, country).
