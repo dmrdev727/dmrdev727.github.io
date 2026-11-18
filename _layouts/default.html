@@ -13,17 +13,16 @@
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
     <style>
-        /* Target the container: Limits width and centers it */
+        /* Target the container: Fixes centering of the "box" without affecting text alignment */
         #header_wrap .inner, header.inner, 
         #main_content_wrap .inner, #main_content,
         #footer_wrap .inner, footer.inner {
-            max-width: 1000px;      /* This limits the width of the column */
-            margin: 0 auto !important; /* This centers the block on the screen */
-            padding: 0 20px !important; /* Adds a little space on the sides for mobile phones */
-            text-align: center;
+            max-width: 720px;      /* This keeps the content in a central column */
+            margin: 0 auto !important; /* This centers the "box" on the screen */
+            padding: 0 20px !important; /* Adds small spacing so text doesn't hit the edge of phone screens */
         }
 
-        /* Target the images: Ensures they stay centered and responsive */
+        /* Target the images: Ensures they stay centered and responsive within their container */
         header.inner img, #main_content img {
             display: block !important;
             max-width: 100%;
@@ -37,6 +36,7 @@
             padding: 0px !important;
         }
     </style>
+
 
 
     
