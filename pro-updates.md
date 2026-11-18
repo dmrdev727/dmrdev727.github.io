@@ -1,8 +1,7 @@
 ## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="23" height="21" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> DMR Launcher Pro Builds
 
 <!-- Website Banner -->
- 
-{% include topbanner.html %}
+
 
 ### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 247
 11 Nov 2026, 11:53
