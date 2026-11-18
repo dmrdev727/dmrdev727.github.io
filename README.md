@@ -28,7 +28,7 @@ DMR Launcher Pro contains no advertisements.
 
 **Shortcut tedious apps!** Don't just open an app, open a specific action. DMR Launcher supports pinned shortcuts that let you jump straight into deep functions or Progressive Web Apps (PWAs) from your browser. This allows you to create "fast-tracks" for frequent tasks: pin key contacts, open a Spotify playlist with one tap, or launch a dedicated web tool as if it were an installed app. By bypassing unnecessary home screens and menus, you can streamline your routine and keep your most-used functions front and center.<br/>
 
-{% include lowerbanner.html %}
+
 
 **Stop the scroll!** Fight back with our innovative Visual Deterrent system. DMR Launcher provides a subtle visual cue when you repeatedly open the same app within a 10-minute window by desaturating its icon. These "Repeated Use Visual Queues" are designed to break app addiction and help you stay mindful of how much time you spend in specific apps. By turning habit-tracking into a visual experience, the launcher helps you identify and break the cycles of doom-scrolling so you can stay productive and present.<br/>
 
