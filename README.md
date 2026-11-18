@@ -3,7 +3,6 @@
 <!-- Website Banner -->
  
 
-
 DMR Launcher is a solo effort from someone who wants more functionality available in their android launcher!<br/>
 DMR Launcher is built for people who want to efficiently navigate their android experience, packed with useful features and theme options.
 <!-- Blank line here -->
