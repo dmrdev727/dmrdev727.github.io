@@ -13,27 +13,31 @@
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
     <style>
-        /* Target the container: Fixes centering and keeps padding small */
-        #header_wrap .inner, header.inner {
-            padding: 0px !important;
-            margin: 0 auto !important; /* 'auto' ensures it stays centered in the middle of the screen */
-            text-align: center;         /* Ensures text/links inside are also centered */
+        /* Target the container: Limits width and centers it */
+        #header_wrap .inner, header.inner, 
+        #main_content_wrap .inner, #main_content,
+        #footer_wrap .inner, footer.inner {
+            max-width: 1000px;      /* This limits the width of the column */
+            margin: 0 auto !important; /* This centers the block on the screen */
+            padding: 0 20px !important; /* Adds a little space on the sides for mobile phones */
+            text-align: center;
         }
 
-        /* Target the images: Ensures they stay centered as block elements */
-        header.inner img {
+        /* Target the images: Ensures they stay centered and responsive */
+        header.inner img, #main_content img {
             display: block !important;
             max-width: 100%;
             height: auto !important;
-            margin: 0 auto !important; /* Centers the image even when it's a 'block' type */
+            margin: 0 auto !important;
             padding: 0 !important;
         }
 
         /* Target the table cells: Keeps the gap between your links small */
-        header.inner td {
+        header.inner td, #main_content td {
             padding: 0px !important;
         }
     </style>
+
 
     
 {% seo %}
