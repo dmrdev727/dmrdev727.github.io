@@ -61,8 +61,3 @@ DMR Launcher Pro contains no advertisements.
 3. To ensure the app uses the least memory and processing possible, App icons are loaded in lazily. Meaning they are only loaded into memory when they are shown on screen which can result in a slight hitch on the first load of a App Drawer page etc. The benefit is that the app does not waste processing time or memory on icons you have not seen. The app then removes the icons from memory if the android system asks for memory space to be cleared.
 4. To ensure the app is accessible, I have tried to ensure the whole app is navigable by controller, keyboard inputs, or screen reader inputs. Let me know if there is anything I can improve.
 <!-- Blank line here -->
-
-## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="23" height="21" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> Contact
-[Email me your feedback and ideas at dmrdev727@gmail.com](mailto:dmrdev727@gmail.com)
-
-{% include lowerbanner.html %}
