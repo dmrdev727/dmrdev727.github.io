@@ -3,6 +3,13 @@
 <!-- Website Banner -->
 
 
+### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 252
++ Added App Drawer support for applications with multiple launcher activities
++ Improve dock icon caching to support component-specific identifiers
++ Secure broadcast receiver registration
++ Refactor AppScanManager to use component IDs for better filtering
++ Clean up unused dependencies and settings logic
+
 ### <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="17" height="16" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> 247
 11 Nov 2026, 11:53
 + Added localisation & translations! Please let me know if any translations need improvement.
