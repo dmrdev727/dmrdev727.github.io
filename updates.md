@@ -40,4 +40,4 @@
 + Search improvements.
 + Fixes.
 
-{% include lowerbanner.html %}
+
