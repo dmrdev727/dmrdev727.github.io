@@ -42,8 +42,6 @@ DMR Launcher Pro contains no advertisements.
 
 **Speed without compromise!** Experience a launcher that prioritises your time and your device's performance. DMR Launcher provides a highly responsive interface where you can customize the animations to suit your taste or turn them off entirely for an ultra-fast, no-nonsense experience. It’s simple, it’s fast, and it’s designed to work perfectly with your lifestyle.<br/>
 
-{% include lowerbanner.html %}
-
 <!-- Blank line here -->
 ## <a href="#top"><img src="/assets/images/dmr_launcher_icon_purple_small.png" alt="DMR Launcher Logo" width="23" height="21" style="vertical-align: middle; margin: -5px 5px 0 0;"></a> To-Do List
 
